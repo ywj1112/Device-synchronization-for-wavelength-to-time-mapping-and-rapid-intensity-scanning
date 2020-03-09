@@ -4,6 +4,8 @@ In this Project, several simulation methods and example files for silicon photon
 
   Matlab examples
   
+  scanning_laser_demonstration.m
+  
 2. Optical power logging tool
 
   SCPI examples
