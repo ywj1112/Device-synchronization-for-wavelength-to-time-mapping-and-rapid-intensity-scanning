@@ -18,9 +18,11 @@ The code is used for data acquisition in publication [2].
 
 References
 
+[1] S. Song, X. Yi, L. Gan, W. Yang, L. Nguyen, S. X. Chew, et al., "Photonic-Assisted Scanning Receivers for Microwave Frequency Measurement," Applied Sciences, vol. 9, p. 328, 2019.
+
 [2] W. Yang, S. Song, K. Powell, X. Tian, L. Li, L. Nguyen, et al., "Etched Silicon-on-Insulator Microring Resonator for Ultrasound Measurement," IEEE Photonics Journal, pp. 1-1, 2020.
 
-[1] S. Song, X. Yi, L. Gan, W. Yang, L. Nguyen, S. X. Chew, et al., "Photonic-Assisted Scanning Receivers for Microwave Frequency Measurement," Applied Sciences, vol. 9, p. 328, 2019.
+
 
 
 The author would like to thank the help from Keysight forum, and Keysight technical support team. 
