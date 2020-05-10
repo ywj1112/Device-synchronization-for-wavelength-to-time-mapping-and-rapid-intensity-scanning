@@ -20,7 +20,7 @@ References
 
 [1] S. Song, X. Yi, L. Gan, W. Yang, L. Nguyen, S. X. Chew, et al., "Photonic-Assisted Scanning Receivers for Microwave Frequency Measurement," Applied Sciences, vol. 9, p. 328, 2019.
 
-[2] W. Yang, S. Song, K. Powell, X. Tian, L. Li, L. Nguyen, et al., "Etched Silicon-on-Insulator Microring Resonator for Ultrasound Measurement," IEEE Photonics Journal, pp. 1-1, 2020.
+[2] W. Yang, S. Song, K. Powell, X. Tian, L. Li, L. Nguyen, et al., "Etched Silicon-on-Insulator Microring Resonator for Ultrasound Measurement," IEEE Photonics Journal, vol. 12, no. 2, pp. 1-9, 2020.
 
 
 
